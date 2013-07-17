@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/modem/security/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/char/broadcom/modem/security/built-in.o drivers/char/broadcom/modem/security/security.o drivers/char/broadcom/modem/security/crypto/built-in.o drivers/char/broadcom/modem/security/simlockfun.o 

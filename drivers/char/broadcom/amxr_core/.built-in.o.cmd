@@ -1,0 +1,1 @@
+cmd_drivers/char/broadcom/amxr_core/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/char/broadcom/amxr_core/built-in.o drivers/char/broadcom/amxr_core/amxrcore.o drivers/char/broadcom/amxr_core/amxr_port_proxy.o 

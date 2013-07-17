@@ -1,0 +1,1 @@
+cmd_drivers/regulator/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/regulator/built-in.o drivers/regulator/core.o drivers/regulator/dummy.o drivers/regulator/bcmpmu-regulator.o drivers/regulator/bcmpmu-rgltr-bcm59056.o 

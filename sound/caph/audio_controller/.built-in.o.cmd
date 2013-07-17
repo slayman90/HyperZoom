@@ -1,0 +1,1 @@
+cmd_sound/caph/audio_controller/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o sound/caph/audio_controller/built-in.o sound/caph/audio_controller/audio_caph.o sound/caph/audio_controller/audio_controller.o sound/caph/audio_controller/extern_audio.o 

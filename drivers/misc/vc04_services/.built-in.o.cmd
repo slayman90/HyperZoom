@@ -1,0 +1,1 @@
+cmd_drivers/misc/vc04_services/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/misc/vc04_services/built-in.o drivers/misc/vc04_services/vc-vchiq.o drivers/misc/vc04_services/vc-vchiq-memdrv-kona.o 
